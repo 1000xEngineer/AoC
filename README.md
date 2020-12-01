@@ -26,6 +26,16 @@ true.
 Note that an `input.txt` file (that day's input) needs to be present in the
 working folder.
 
+If you really want to, however, you can run the file directly (I would recommend
+against it because the Prolog shell is what makes it great):
+
+```shell
+$ prolog -q -t start code.pl
+```
+
+This runs Prolog in quiet (`-q`) mode with the toplevel goal `start` (`-t`)
+from code.pl.
+
 ## Copyright
 
 &copy; 2020 The 1000x Engineer. This project is licensed under the GNU General
