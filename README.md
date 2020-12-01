@@ -2,8 +2,9 @@
 
 ## How to run
 
-Get SWI-Prolog from your favorite package manager. The version I'm using is
-8.2.2, which is available in Debian repos as `swi-prolog`.
+Get [SWI-Prolog](https://swi-prolog.org/) from your favorite package manager.
+The version I'm using is 8.2.2, which is available in Debian repos as
+`swi-prolog`.
 
 ## Inputs
 
