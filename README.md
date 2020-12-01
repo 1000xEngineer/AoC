@@ -12,7 +12,7 @@ Sign up to [Advent of Code](https://adventofcode.com/) to get puzzle inputs.
 
 ## Running
 
-SWI-Prolog programs are not run directly. Open up a terminal and start `swi-prolog`,
+SWI-Prolog programs are not run directly. Open up a terminal and start `prolog`,
 then:
 
 ```prolog
